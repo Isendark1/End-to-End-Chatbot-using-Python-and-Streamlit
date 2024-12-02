@@ -22,3 +22,36 @@ Make sure to install these versions to reproduce the environment accurately. You
 
 ```bash
 pip install nltk==3.9.1 pandas==2.1.3 scikit-learn==1.2.2 streamlit==1.40.2
+
+
+1. **`chatbot.py`**  
+   This script contains the core implementation of the chatbot, including the logic, natural language processing (NLP) components, and response generation. It serves as the backbone of the chatbot application.
+
+2. **`main.py`**  
+   This script is responsible for deploying the chatbot as a web application using **Streamlit**. It provides an interactive interface for users to chat with the chatbot directly in their browser. The Streamlit interface ensures an easy-to-use and visually appealing experience.
+
+## Running the Application
+
+To deploy the chatbot locally, use the following command in your terminal:
+
+```bash
+streamlit run main.py
+
+## Chatbot Interactions
+
+Below are some sample interactions with the chatbot to showcase its capabilities:
+
+### Greeting Interaction
+![Greeting Interaction](Chatbot Interactions/1.png)
+
+### Weather Query
+![Weather Query](Chatbot Interactions/2.png)
+
+### Joke Request
+![Joke Request](Chatbot Interactions/3.png)
+
+### Fun Fact Request
+![Fun Fact Request](Chatbot Interactions/4.png)
+
+
+
