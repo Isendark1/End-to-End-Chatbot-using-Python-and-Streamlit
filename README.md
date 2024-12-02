@@ -43,16 +43,16 @@ streamlit run main.py
 Below are some sample interactions with the chatbot to showcase its capabilities:
 
 ### Greeting Interaction
-![Greeting Interaction](Chatbot Interactions/1.png)
+![Greeting Interaction](Chatbot%20Interactions/1.png)
 
 ### Weather Query
-![Weather Query](Chatbot Interactions/2.png)
+![Weather Query](Chatbot%20Interactions/2.png)
 
 ### Joke Request
-![Joke Request](Chatbot Interactions/3.png)
+![Joke Request](Chatbot%20Interactions/3.png)
 
 ### Fun Fact Request
-![Fun Fact Request](Chatbot Interactions/4.png)
+![Fun Fact Request](Chatbot%20Interactions/4.png)
 
 
 
