@@ -1,3 +1,4 @@
+## Project Overview
 
 This project demonstrates the development of an end-to-end chatbot using Python. The chatbot is trained on a dataset of intents and utilizes a machine learning model to classify user input into various categories, providing dynamic and contextually appropriate responses. Key components of the project include:
 
@@ -35,6 +36,7 @@ To deploy the chatbot locally, use the following command in your terminal:
 
 ```bash
 streamlit run main.py
+```
 
 ## Chatbot Interactions
 
