@@ -22,8 +22,7 @@ Make sure to install these versions to reproduce the environment accurately. You
 
 ```bash
 pip install nltk==3.9.1 pandas==2.1.3 scikit-learn==1.2.2 streamlit==1.40.2
-
-
+```
 1. **`chatbot.py`**  
    This script contains the core implementation of the chatbot, including the logic, natural language processing (NLP) components, and response generation. It serves as the backbone of the chatbot application.
 
